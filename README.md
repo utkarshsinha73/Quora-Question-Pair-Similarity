@@ -9,7 +9,7 @@ Hence, log-loss taken as performance metric of the model.
 2.Preprcessing
 
 Some basic features like common word count, common word share etc. were extracted before text preprocessing.
-Stemming and stopword removal was performed on the text to clean it. 
+Stemming, decontraction and stopword removal was performed on the text to clean it. 
 Subsequently some advanced features were extracted using fuzzy string matching. 
 
 3.Featurization
